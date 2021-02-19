@@ -2774,7 +2774,6 @@ body[data-page="design"].scene--bg-vishnu .page-header .main-nav .btn.btn--borde
     color: #ffffff;
     text-align: center;
     padding: 40px 0 20px;
-    min-height: 250px
 }
 
 @media (min-width: 992px) and (max-width: 1220px) {
